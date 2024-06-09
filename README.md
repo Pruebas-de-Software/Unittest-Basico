@@ -11,3 +11,5 @@ Intuitivamente podríamos pensar en un solo ciclo, pero para ejemplificar un cas
 - Ciclo 1: Verificar si el número es par
 - Ciclo 2: Verificar si el número es divisible por 3
 - Ciclo 3: Verificar si el número es par y divisible por 3
+
+*Ver Commits
