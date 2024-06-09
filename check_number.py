@@ -25,4 +25,9 @@ def check_number(number):
     return "No es par ni divisible por 3"
 
 if __name__ == "__main__":
-    unittest.main()
+    unittest.main(exit=False)
+    
+    # Solicitar entrada del usuario por consola
+    number = int(input("Ingrese un número: "))
+    result = check_number(number)
+    print(result)
