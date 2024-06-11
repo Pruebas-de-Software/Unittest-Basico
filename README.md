@@ -13,3 +13,7 @@ Intuitivamente podríamos pensar en un solo ciclo, pero para ejemplificar un cas
 - Ciclo 3: Verificar si el número es par y divisible por 3
 
 *Ver Commits
+
+*Tarea:*
+Al programa anterior agregar la capacidad que
+reconozca números primos
