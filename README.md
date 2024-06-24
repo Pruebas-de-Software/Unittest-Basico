@@ -15,5 +15,4 @@ Intuitivamente podríamos pensar en un solo ciclo, pero para ejemplificar un cas
 *Ver Commits
 
 *Tarea:*
-Al programa anterior agregar la capacidad que
-reconozca números primos
+Al programa anterior agregar la capacidad que reconozca números primos. Partir  de base actual.
