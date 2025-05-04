@@ -24,12 +24,13 @@ Intuitivamente podríamos pensar en resolver todo en un solo ciclo. Sin embargo,
 - **Ciclo 2:** Verificar si el número es divisible por 3.
 - **Ciclo 3:** Verificar si el número es par **y** divisible por 3.
 
-📌 *Ver commits para seguimiento del desarrollo.*
+📌 [*Ver commits para seguimiento del desarrollo.*](https://github.com/Pruebas-de-Software/Unittest-Basico/commits/develop/)
 
 ---
 
 ## 🧠 Tarea adicional
 
-Agregar al programa la capacidad de reconocer **números primos**.  
+Agregar al programa la capacidad de reconocer **números primos**.
+
 👉 Partir desde la base actual del proyecto.
 
